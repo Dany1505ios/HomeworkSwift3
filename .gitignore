@@ -1,0 +1,7 @@
+.DS_Store
+*.xcuserstate
+*.xcworkspacedata
+xcuserdata/
+UserInterfaceState.xcuserstate
+TestProject.playground/
+iosdevswift.playground/
