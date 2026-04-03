@@ -5,3 +5,5 @@ xcuserdata/
 UserInterfaceState.xcuserstate
 TestProject.playground/
 iosdevswift.playground/
+**/xcuserdata/
+**/UserInterfaceState.xcuserstate
